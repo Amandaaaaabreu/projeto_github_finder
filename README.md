@@ -14,7 +14,7 @@
 
 ![Logo da minha empresa](logo2.jpeg) 
 
-<p>Após a execução, abra seu navegador e acesse http://localhost:5173 para visualizar o aplicativo.</p>
+<p>Após a execução, abra seu navegador e acesse<strong> http://localhost:5173</strong> para visualizar o aplicativo.</p>
 
 <h3>Estrutura do projeto</h3>
 
