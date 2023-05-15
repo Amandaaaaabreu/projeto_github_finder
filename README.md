@@ -11,3 +11,17 @@
 <h3>Executando o projeto</h3> 
 
 <p>Para iniciar o projeto localmente, execute o seguinte comando:</p>
+
+![Logo da minha empresa](logo2.jpeg) 
+
+<p>Após a execução, abra seu navegador e acesse http://localhost:5173 para visualizar o aplicativo.</p>
+
+<h3>Estrutura do projeto</h3>
+
+<p>A estrutura do projeto é organizada da seguinte maneira:</p>
+
+<p> - src/: Contém os arquivos fonte do projeto.</p>
+
+<p> - components/: Diretório com os componentes reutilizáveis.</p>
+
+<p> - routes/: responsáveis por definir as rotas da aplicação.</p>
